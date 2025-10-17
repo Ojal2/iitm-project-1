@@ -1,5 +1,6 @@
 fastapi
-requests
+uvicorn
 PyGithub
-uvicorn[standard]
+requests
 pydantic
+httpx
