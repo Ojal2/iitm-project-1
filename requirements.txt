@@ -1,0 +1,5 @@
+fastapi
+requests
+PyGithub
+uvicorn[standard]
+pydantic
